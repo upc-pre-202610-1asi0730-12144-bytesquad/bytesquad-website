@@ -7,7 +7,7 @@ export default {
     LanguageSwitcher
   },
   setup() {
-    const appUrl = 'https://witty-tree-0f4a0570f.7.azurestaticapps.net'
+    const appUrl = 'https://green-pebble-07422c50f.7.azurestaticapps.net'
 
     const btnStates = ref([false, false, false, false])
 
